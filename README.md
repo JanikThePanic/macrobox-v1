@@ -40,4 +40,6 @@ This is assuming the prints, screws, and resistors are free.
 <br>
 Total Estimate (CAD): 67.16
 
+## Note
 Too expensive for me :(
+That is why I am making MarcoBox v2 with parts I already own.

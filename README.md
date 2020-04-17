@@ -25,8 +25,8 @@ Parts needed include:
 * x4 [4-40 Countersunk Machine Screws 1/4 in](https://www.homedepot.com/p/Everbilt-4-40-x-1-1-4-in-Phillips-Flat-Head-Machine-Screws-6-Pack-28281/202706116)
 * x4 [2-56 Machine Screws 1/4 in](https://www.homedepot.com/p/2-56-x-1-4-in-Phillips-Slotted-Combination-Drive-Round-Head-Machine-Screws-Zinc-Plated-in-Steel-100-Pack-9002676/310889508)
 
-## Print
-Parts to Print:
+## 3D Print
+Parts to 3D Print:
 * x1 MB_Main_Case.SLDPRT (Three Hours)
 * x1 MB_Lower_Plate.SLDPRT (Three Hours)
 * x1 MB_LED_Spacer.SLDPRT (Two Minutes)

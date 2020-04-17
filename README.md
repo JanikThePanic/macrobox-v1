@@ -40,8 +40,6 @@ The CAD is made in SolidWorks. If you need STLs, feel free to contact me.
 The plan was to flash the chip with the Arduino Micro Firmware and program it in Arduino, with help from the Keyboard Library.
 Unfortunately, I never got to that as I began working on a cheaper version, the MacroBox v2.
 
-<br>
-
 ## Price Estimate
 This is assuming the prints, screws, and resistors are free.
 <br>

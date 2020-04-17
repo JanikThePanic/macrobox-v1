@@ -24,6 +24,7 @@ Parts needed include:
 * x10 [White Flangeless 3mm LEDs](https://www.digikey.com/products/en?mpart=VAOL-3MWY4&v=28)
 * x4 [4-40 Countersunk Machine Screws 1/4 in](https://www.homedepot.com/p/Everbilt-4-40-x-1-1-4-in-Phillips-Flat-Head-Machine-Screws-6-Pack-28281/202706116)
 * x4 [2-56 Machine Screws 1/4 in](https://www.homedepot.com/p/2-56-x-1-4-in-Phillips-Slotted-Combination-Drive-Round-Head-Machine-Screws-Zinc-Plated-in-Steel-100-Pack-9002676/310889508)
+[Mouser Order](https://www.mouser.ca/ProjectManager/ProjectDetail.aspx?AccessID=55a6c28294)
 
 ## 3D Print
 Parts to 3D Print:

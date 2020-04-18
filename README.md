@@ -33,10 +33,10 @@ Parts to 3D Print:
 * x1 MB_Lower_Plate.SLDPRT (Three Hours)
 * x1 MB_LED_Spacer.SLDPRT (Two Minutes)## 3D Print
 
-## CAD:
+## CAD
 The CAD is made in SolidWorks. If you need STLs, feel free to contact me.
 
-## Code:
+## Code
 The plan was to flash the chip with the Arduino Micro Firmware and program it in Arduino, with help from the Keyboard Library.
 Unfortunately, I never got to that as I began working on a cheaper version, the MacroBox v2.
 

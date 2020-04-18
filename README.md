@@ -1,5 +1,6 @@
 # MarcoBox
 Made by [Jahangir (Janik) Abdullayev](https://janikthepanic.github.io/)
+More [Documentation](https://janikthepanic.github.io/projects/macrobox_v1.html)
 
 ## PCB
 PCB found on [EasyEDA](https://easyeda.com/jk4abdl/macrobox)

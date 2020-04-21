@@ -47,3 +47,6 @@ This is assuming the prints, screws, and resistors are free.
 <br>
 <br>
 Total Estimate (CAD): 67.16
+
+##Support Me
+Support me at [paypal.me/thejanik](https://www.paypal.me/thejanik)

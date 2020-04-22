@@ -31,9 +31,9 @@ Parts needed include:
 
 ## 3D Print
 Parts to 3D Print:
-* x1 MB_Main_Case.SLDPRT (Three Hours)
-* x1 MB_Lower_Plate.SLDPRT (Three Hours)
-* x1 MB_LED_Spacer.SLDPRT (Two Minutes)## 3D Print
+* x1 MB_Main_Case.SLDPRT
+* x1 MB_Lower_Plate.SLDPRT
+* x1 MB_LED_Spacer.SLDPRT
 
 ## CAD
 The CAD is made in SolidWorks. If you need STLs, feel free to contact me.

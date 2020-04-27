@@ -50,7 +50,9 @@ Total Estimate (CAD): 67.16
 
 ## Notice
 Do NOT make this.
+<br>
 With the way the PCB is wired, the AtMega32U4 can NOT be programmed in any manner.
+<br>
 This project has been a learning experience for me.
 
 ## Support Me

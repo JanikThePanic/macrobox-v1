@@ -48,5 +48,10 @@ This is assuming the prints, screws, and resistors are free.
 <br>
 Total Estimate (CAD): 67.16
 
+## Notice
+Do NOT make this.
+With the way the PCB is wired, the AtMega32U4 can NOT be programmed in any manner.
+This project has been a learning experience for me.
+
 ## Support Me
 Support me at [paypal.me/thejanik](https://www.paypal.me/thejanik)
